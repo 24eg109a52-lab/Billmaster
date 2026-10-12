@@ -1,0 +1,21 @@
+# Dependencies & Build Artefacts
+**/node_modules/
+**/dist/
+**/build/
+**/target/
+*.class
+
+# Temporary / unused folders
+frntd/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

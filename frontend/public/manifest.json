@@ -1,0 +1,15 @@
+{
+  "short_name": "BillMaster",
+  "name": "BillMaster - Java Full Stack Billing App",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0e2a47",
+  "theme_color": "#00a8cc",
+  "display": "standalone"
+}
